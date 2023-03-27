@@ -27,5 +27,7 @@ Future plans include collecting human feedback on the data, implementing a live 
 
 Why our project might be important to them and general background
 https://www.science.org/content/article/science-fast-track
+
 https://motorsportexplained.com/role-of-the-race-engineer/
+
 https://auto.howstuffworks.com/auto-racing/nascar/jobs/nascar-driver-communicate.htm
