@@ -11,7 +11,7 @@ We set out to classify text messages and identify key messages in the radio comm
 ![Test Image 1](reports/img/Data_collection.png)
 
 
-Rolos' and the students' approach involves recording real-time radio communications, audio transcription of every single message, and using NLP machine and deep learning techniques to classify and identify key messages. The result is a highly efficient system that ensures engineers focus only on the essential messages that can affect the race. This system can correctly identify 93% of the messages as high or low importance. 75% Of all high importance messages were identified! See the picture below.
+Rolos' and the ours' approach involves recording real-time radio communications, audio transcription of every single message, and using NLP machine and deep learning techniques to classify and identify key messages. The result is a highly efficient system that ensures engineers focus only on the essential messages that can affect the race. This system can correctly identify 93% of the messages as high or low importance. 75% Of all high importance messages were identified! See the picture below.
 
 ![Test Image 1](reports/img/Results.png)
 
